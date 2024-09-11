@@ -23,3 +23,7 @@ Enhanced leadership and project management skills.
 Acquired in-depth knowledge of iOS development and Firebase integration.
 Program Details:
 The Infosys internship program, in collaboration with SRM University and Apple, provided comprehensive learning in iOS app development. It included an intensive BootCamp, structured development phases, and industry-led mentorship, culminating in a showcase of innovative solutions created by interns.
+
+
+https://github.com/user-attachments/assets/ce362328-a54e-469a-8e52-326e995cbc18
+
