@@ -8,6 +8,7 @@ BookWise is designed to streamline library operations, including book cataloging
 My Role:
 As the team leader and Scrum Master, I:
 
+( Achieved 1st Rank among 10 Teams)
 Led a team through Agile sprints and daily stand-ups.
 Coordinated with stakeholders for requirements and feedback.
 Oversaw front-end development using SwiftUI to meet Apple's design standards.
